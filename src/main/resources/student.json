@@ -1,0 +1,12 @@
+﻿[
+	{
+	"IDStudent":1,
+	"TitleGroup": "03-P-1",
+	"FIO": "Долгополов И.Н.",
+	"GroupID":1
+	},
+	{
+	"IDStudent":2,
+	"TitleGroup": "03-P-1",
+	"FIO": "Петров С.Н.",
+	"GroupID":1},{"IDStudent":3,"TitleGroup": "03-P-1","FIO":"Желтоножский А.А.","GroupID":1},{"IDStudent":4,"TitleGroup": "03-P-1","FIO":"Воробьев А.Н.","GroupID":1},{"IDStudent":5,"TitleGroup": "03-P-1","FIO":"Титовский В.С.","GroupID":1},{"IDStudent":6,"TitleGroup": "03-P-1","FIO":"Ушатов А.Б.","GroupID":1},{"IDStudent":7,"TitleGroup": "03-P-1","FIO":"Бесчастнов А.В.","GroupID":1},{"IDStudent":8,"TitleGroup": "03-P-1","FIO":"Мишин И.В.","GroupID":1},{"IDStudent":9,"TitleGroup": "03-P-1","FIO":"Неделькин П.В.","GroupID":1},{"IDStudent":10,"TitleGroup": "03-P-1","FIO":"Соколов С.Н.","GroupID":1},{"IDStudent":11,"TitleGroup": "03-P-2","FIO":"Родионов В.Ю.","GroupID":2},{"IDStudent":12,"TitleGroup": "03-P-2","FIO":"Филатов А.М.","GroupID":2},{"IDStudent":13,"TitleGroup": "03-P-2","FIO":"Селезенев С.Н.","GroupID":2},{"IDStudent":14,"TitleGroup": "03-P-2","FIO":"Гаврилин А.Н.","GroupID":2},{"IDStudent":15,"TitleGroup": "03-P-2","FIO":"Морозов И.П.","GroupID":2},{"IDStudent":16,"TitleGroup": "03-P-2","FIO":"Баринова Т.В.","GroupID":2},{"IDStudent":17,"TitleGroup": "03-P-2","FIO":"Овчинникова Н.П.","GroupID":2},{"IDStudent":18,"TitleGroup": "03-P-2","FIO":"Богатырева И.Н.","GroupID":2},{"IDStudent":19,"TitleGroup": "03-P-2","FIO":"Голунова А.Ю.","GroupID":2},{"IDStudent":20,"TitleGroup": "03-P-2","FIO":"Агафонцева О.О.","GroupID":2},{"IDStudent":21,"TitleGroup": "03-P-3","FIO":"Сушина О.Ю.","GroupID":3},{"IDStudent":22,"TitleGroup": "03-P-3","FIO":"Смирнова У.Ф.","GroupID":3},{"IDStudent":23,"TitleGroup": "03-P-3","FIO":"Кормушечкина В.И.","GroupID":3},{"IDStudent":24,"TitleGroup": "03-P-3","FIO":"Головнова Н.С.","GroupID":3},{"IDStudent":25,"TitleGroup": "03-P-3","FIO":"Малышева А.П.","GroupID":3},{"IDStudent":26,"TitleGroup": "03-P-3","FIO":"Силина К.П.","GroupID":3},{"IDStudent":27,"TitleGroup": "03-P-3","FIO":"Валова О.А.","GroupID":3},{"IDStudent":28,"TitleGroup": "03-P-3","FIO":"Безверхова К.В.","GroupID":3},{"IDStudent":29,"TitleGroup": "03-P-3","FIO":"Королева Д.У.","GroupID":3},{"IDStudent":30,"TitleGroup": "03-P-3","FIO":"Кочурова К.Н.","GroupID":3}]
