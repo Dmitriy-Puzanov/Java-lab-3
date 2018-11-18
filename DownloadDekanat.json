@@ -1,0 +1,19 @@
+{  
+  "students": [
+        {
+            "id": 100,
+            "fio": "Иванов A.A."
+			"groups": "VMK"
+        },
+        {
+            "id": 101,
+            "fio": "Petrov V.V."
+			"groups": "Legal"
+        }
+		{
+            "id": 102,
+            "fio": "Сидоров М.А."
+			"groups": "Legal"
+        }
+    ]
+}
